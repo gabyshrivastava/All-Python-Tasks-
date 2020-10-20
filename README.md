@@ -1,2 +1,2 @@
 # All-python-Tasks-
-All python tasks will be uploaded in this repository 
+All python tasks given by Vinay sir will be uploaded in this repository 
